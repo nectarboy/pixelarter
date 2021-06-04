@@ -7,6 +7,8 @@ theres a DS version as well but its pretty shitty :|
 its pretty primitive and a lil tedious at times- <br>
 it uses bitmaps instead of tiles :| and it lacks some qol features like holding down directions.
 
+![gba](https://github.com/nectarboy/pixelarter/blob/main/pics/hoi.png?raw=true)
+
 ## GBA controls
 pixel arter is very simple to use :D<br>
 as soon as you start, you are presented with a blank canvas uwu
@@ -41,6 +43,8 @@ then you can open the folder of pixelarter-[console] and do `make` !
 
 though are u rlly gonna do all that for some dumbass pixelart program ...<br>
 just go and download the binaries for ur own sake.
+
+![gba](https://github.com/nectarboy/pixelarter/blob/main/pics/wow.png?raw=true)
 
 ---
 
