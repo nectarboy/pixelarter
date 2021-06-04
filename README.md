@@ -9,6 +9,8 @@ it uses bitmaps instead of tiles :| and it lacks some qol features like holding 
 
 ![gba](https://github.com/nectarboy/pixelarter/blob/main/pics/hoi.png?raw=true)
 
+ooh also u cant rlly save ur work srry :( maybe with saves tho ... hm ...
+
 ## GBA controls
 pixel arter is very simple to use :D<br>
 as soon as you start, you are presented with a blank canvas uwu
